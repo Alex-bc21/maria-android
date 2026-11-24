@@ -1,0 +1,19 @@
+Компоненты поиска по содержимому
+
+TinyCLIP-ViT-40M-32-Text-19M-LAION400M, Microsoft TinyCLIP. ONNX export onnx-community, revision 737108a175dc6c043d9e64cf738baa91a272f7cb. Graph split into image and text encoders. Input convolution weights dequantized to float for Android ARM64 compatibility. All other quantized weights retained.
+https://huggingface.co/onnx-community/TinyCLIP-ViT-40M-32-Text-19M-LAION400M-ONNX
+https://github.com/wkcn/TinyCLIP
+
+ONNX Runtime Android 1.20.0, Microsoft, MIT License.
+https://github.com/microsoft/onnxruntime/tree/v1.20.0
+tess-two 9.1.0, Android Tesseract/Leptonica bindings.
+https://github.com/rmtheis/tess-two
+Tesseract traineddata, rus, ukr and eng, tag 3.04.00, Apache License 2.0.
+https://github.com/tesseract-ocr/tessdata/tree/3.04.00
+
+Russian speech: Mari (ru_RU-mari-medium_epoch6399, 22050 Hz). Model and matching Russian phonemization data:
+https://github.com/mitrokun/espeak-ng-data/tree/342474b9fb6291085e10648ac0f9b84dcf68f028
+Converted to the sherpa-onnx token and metadata format. Remaining eSpeak data from the original sherpa-onnx Piper package.
+Android engine: sherpa-onnx v1.12.23, static-link-onnxruntime Android AAR (arm64), Kotlin stdlib 2.1.20.
+https://github.com/k2-fsa/sherpa-onnx/releases/tag/v1.12.23
+eSpeak NG phonemization data is included with the voice. Notices are in licenses/.
