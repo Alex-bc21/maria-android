@@ -5,10 +5,10 @@ Maria / Jarvis: Android voice assistant, file search, accessible screen reading,
 
 ### Скачать и установить
 
-- **[Скачать полный ARM64 APK](https://api.github.com/repos/Alex-bc21/maria-android/releases/assets/786647334)**
-- **[Скачать универсальный APK — 4,4 МБ](https://api.github.com/repos/Alex-bc21/maria-android/releases/assets/786646852)**
+- **[Скачать полный ARM64 APK](https://github.com/Alex-bc21/maria-android/releases/download/v6.39/Maria-6.39-full-arm64.apk)**
+- **[Скачать универсальный APK — 4,4 МБ](https://github.com/Alex-bc21/maria-android/releases/download/v6.39/Maria-6.39-universal.apk)**
 
-[Полные исходники](https://api.github.com/repos/Alex-bc21/maria-android/releases/assets/786672476) · [Все версии и контрольные суммы](https://github.com/Alex-bc21/maria-android/releases)
+[Полные исходники](https://github.com/Alex-bc21/maria-android/releases/download/v6.39/Maria-6.39-source.zip) · [Все версии и контрольные суммы](https://github.com/Alex-bc21/maria-android/releases)
 
 Откройте ссылку APK на телефоне, скачайте файл и подтвердите установку средствами Android. Перед установкой проверьте требования и ограничения ниже; новые версии устанавливайте поверх старой с той же подписью, чтобы сохранить настройки.
 
