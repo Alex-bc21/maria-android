@@ -1,5 +1,22 @@
 # Мария / Jarvis 6.39
 
+<!-- download-and-share -->
+Maria / Jarvis: Android voice assistant, file search, accessible screen reading, calendar and reminders. Android 10+; Russian interface.
+
+### Скачать и установить
+
+- **[Скачать полный ARM64 APK](https://api.github.com/repos/Alex-bc21/maria-android/releases/assets/786647334)**
+- **[Скачать универсальный APK — 4,4 МБ](https://api.github.com/repos/Alex-bc21/maria-android/releases/assets/786646852)**
+
+[Полные исходники](https://api.github.com/repos/Alex-bc21/maria-android/releases/assets/786672476) · [Все версии и контрольные суммы](https://github.com/Alex-bc21/maria-android/releases)
+
+Откройте ссылку APK на телефоне, скачайте файл и подтвердите установку средствами Android. Перед установкой проверьте требования и ограничения ниже; новые версии устанавливайте поверх старой с той же подписью, чтобы сохранить настройки.
+
+Это предварительные версии для ознакомления и тестирования. Для скачивания публичных файлов регистрация на GitHub не нужна.
+
+**Поделиться:** отправьте [ссылку на этот проект](https://github.com/Alex-bc21/maria-android) — здесь будут актуальное описание и ссылки на версии. [Сообщить об ошибке](https://github.com/Alex-bc21/maria-android/issues).
+<!-- /download-and-share -->
+
 Помощник для Android 10+: команды телефона, поиск файлов, чтение доступного текста на экране, календарь и напоминания. Марка телефона не ограничена.
 
 [Скачать APK и исходники 6.39](https://github.com/Alex-bc21/maria-android/releases/tag/v6.39)
@@ -32,3 +49,4 @@ Google Фото необязателен: снимки выбираются че
 Проверки: `./gradlew lintPortableRelease lintFullRelease assemblePortableReleaseAndroidTest`. Инструментальные тесты рассчитаны на отдельный разблокированный AOSP-эмулятор с тестовым PIN, без Google-сервисов. Никогда не запускайте настройку тестового эмулятора на личном телефоне.
 
 [Руководство](USER-GUIDE.md), [данные](PRIVACY.md), [проверки и ограничения](VERIFICATION.md). Лицензии сторонних компонентов: CONTENT-MODELS.txt и licenses/.
+
